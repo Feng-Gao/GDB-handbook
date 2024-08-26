@@ -9,11 +9,11 @@
 
 ## Cluster: Critical Competencies 
 * Action Area: Data Literacy
-    * [Training: Civil Service](../indicators/C.CAPABILITIES.TRAIN.md)
+    * [Capability: Civil Service Training](../indicators/C.CAPABILITIES.TRAIN.md)
 * Action Area: Data Reuse
     * [Capability: Government support for re-use](../indicators/C.CAPABILITIES.GOVSUPPORT.md)
     * [Governance: Open Data Policy](../indicators/G.GOVERNANCE.ODPOLICY.md)
-    * [Cqpability: Open Data Initiative](../indicators/C.GOVERNANCE.ODINIT.md)
+    * [Capability: Open Data Initiative](../indicators/C.CAPABILITIES.ODINIT.md)
 
 ## Cluster: Equitable Access Cluster 
 * Action Area: Accessibility
