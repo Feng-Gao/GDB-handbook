@@ -6,8 +6,4 @@ Here you'll find both general guidance, about the project overall and various co
 
 As the Global Data Barometer investigates data policies and practices across the data spectrum, particularly those that can be influenced by government action, before answering or reviewing Barometer questions, it is important to familiarize yourself with the concepts of [the data spectrum](https://theodi.org/about-the-odi/the-data-spectrum/), open government data, and the [Open Data Charter Principles](https://opendatacharter.net/principles/).
 
-!!! question "Feedback welcome"
-
-	We welcome your feedback! The Barometer is designed as a time series, to run at least 10 years in parallel with the UN's 2030 Agenda. Your feedback will help us test, verify, and develop research methods for studying data for public good. You can send your feedback on the methodology and handbook to [team@globaldatabarometer.org](mailto:team@globaldatabarometer.org).
-
  

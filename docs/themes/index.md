@@ -26,14 +26,3 @@ To complete the spread of thematic areas addressed in the pilot edition of the G
 * [Geospatial](Geospatial.md)
 * [Population](Population Data.md)
 * [Transportation](Transportation.md)
-
-!!! note "Share your feedback"
-
-    The list of themes for the pilot edition of the Global Data Barometer is now in final draft status, and is unlikely to significantly change. At this point we welcome feedback on: 
-    
-    * **The proposed indicators** under each theme. 
-    * **The details of each indicator**
-    * **Theme justifications** and in particular, any regional considerations relevant to thse
-    * **Potential use cases** for the primary data that will be gathered for particular themes
-
-    In particular, we are keen to hear from stakeholders who may make use of data gathered under a particular theme, and to identify if there are ways we can ensure the primary data collection carried out best meets stakeholder needs. 
