@@ -1,6 +1,5 @@
 * [Home](index.md)
 * [Methodology](methodology.md)
-* [Modules](themes/)
 * [Guidance](guidance/)
 * [Full Indicator list](indicators/)
 * [1st Edition Handbook](https://handbook.globaldatabarometer.org/2021/)

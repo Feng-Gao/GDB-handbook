@@ -6,4 +6,11 @@ Here you'll find both general guidance, about the project overall and various co
 
 As the Global Data Barometer investigates data policies and practices across the data spectrum, particularly those that can be influenced by government action, before answering or reviewing Barometer questions, it is important to familiarize yourself with the concepts of [the data spectrum](https://theodi.org/about-the-odi/the-data-spectrum/), open government data, and the [Open Data Charter Principles](https://opendatacharter.net/principles/).
 
- 
+## Manuals
+To support researchers, regional hub coordinators, and reviewers to carry out research activities, the GDB team prepared several detailed manuals for references. 
+
+Here is the list of available manuals:
+
+1. [Research Manual](https://docs.google.com/document/d/1E0gH4t3sVHkZ6tXhaIu700erlrGFvtZSpdaOH42mxmM/edit)
+2. [Reviewers Manual](https://docs.google.com/document/d/1Jrp08xf6oF-4VzjiKLCQzfRGqKqRKgeVW1nxPodHTZI/edit)
+3. [Survey Tool Manual](https://docs.google.com/document/d/1QAb3HRr2TsnkhRLta-w73krp_fsNsHIKw2YgfNyX3VA/edit)
