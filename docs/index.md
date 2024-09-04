@@ -1,6 +1,6 @@
 # Global Data Barometer Handbook (2024)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/j1AwnZdGQZI?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe src="https://drive.google.com/file/d/1IRn_vIIixAPhutcVrfuBUdF9WiZK8KP_/preview" width="560" height="315" allow="autoplay"></iframe>
 
 In our rapidly evolving digital age, the quest for a healthy data ecosystem—one that serves the public good, ensuring benefits for all and safeguarding against harm—has emerged as an important priority. (Rapport, Gaudet, Constanza, Epstein, and Levins, 2009; Mars, Bronstein, and Lusch, 2012; Crusoe, 2021) Such ecosystems can significantly improve the situation created by the proliferation of misinformation, disinformation, surveillance, and other harmful practices that erode trust, polarize communities, and threaten democratic values. When governments produce and publish high-quality data, and when communities and individuals have access to it, they can make informed decisions about their health, safety, and civic participation. This, in turn, strengthens democratic values, enhances public trust, and fosters social cohesion.
 
