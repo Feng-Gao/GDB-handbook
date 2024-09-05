@@ -39,7 +39,7 @@
         * [Availability: Public Procurement Data](../indicators/A.PROCUREMENT.OC.md)
 * Cluster: Public Finance 
     * Action Area: Budget and Spending
-        * [Governance: Open Public Finance Data](../indicators/G.PF.PUB-FINANCE.md)
+        * [Governance: Public Finance Data](../indicators/G.PF.PUB-FINANCE.md)
         * [Availability: Budget and spend data](../indicators/A.PF.BUDGETSPEND.md)
 * Cluster: Company Information
     * Action Area: Company register
