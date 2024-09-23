@@ -1,0 +1,5 @@
+RewriteEngine on
+RewriteRule ^$ /2024/ [R=302,NC,L]
+RewriteRule ^indicators/(.*)$ /2024/indicators/$1 [R=302,NC,L]
+RewriteRule ^guidance/(.*)$ /2024/guidance/$1 [R=302,NC,L]
+RewriteRule ^methodology/(.*)$ /2024/methodology/$1 [R=302,NC,L]
