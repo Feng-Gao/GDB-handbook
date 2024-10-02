@@ -1,5 +1,5 @@
 
-## Cluster: Data Governance 
+## Cluster: Governance Foundation
 * Action Area: Data Protection
     * [Governance: Data Protection](../indicators/G.GOVERNANCE.DPL.md)
 * Action Area: Data Sharing  
@@ -15,19 +15,19 @@
     * [Governance: Open Data Policy](../indicators/G.GOVERNANCE.ODPOLICY.md)
     * [Capability: Open Data Initiative](../indicators/C.CAPABILITIES.ODINIT.md)
 
-## Cluster: Equitable Access Cluster 
+## Cluster: Equitable Access
 * Action Area: Accessibility
     * [Governance: Accessibility coverage & data](../indicators/G.GOVERNANCE.ACCESSIBILITY.md)
 * Action Area: Language
-    * [Governance: Language coverage & data](../indicators/G.GOVERNANCE.LANG.md)
+    * [Governance: Linguistic inclusion & data](../indicators/G.GOVERNANCE.LANG.md)
 
 ## Cluster: Political Integrity
 * Action Area: Political Finance
     * [Governance: Political finance](../indicators/G.PI.POLFIN.md)
     * [Availability: Political finance data ](../indicators/A.PI.POLFIN.md)
 * Action Area: Interest and Assets Declarations
-    * [Governance: Asset declarations](../indicators/G.PI.IAD.md)
-    * [Availability: Asset declarations](../indicators/A.PI.IAD.md)
+    * [Governance: Interest & asset declarations](../indicators/G.PI.IAD.md)
+    * [Availability: Interest & asset declarations](../indicators/A.PI.IAD.md)
 * Action Area: Lobbying   
     * [Governance: Lobbying register](../indicators/G.PI.LOBBY.md)
     * [Availability: Lobbying data](../indicators/A.PI.LOBBY.md)
@@ -51,8 +51,8 @@
 * Action Area: Company register
     * [Availability: Company register](../indicators/A.COMPANY.REG.md)
 * Action Area: Beneficial ownership of companies
-    * [Governance: Beneficial ownership](../indicators/G.COMPANY.BOT.md)
-    * [Availability: Beneficial ownership ](../indicators/A.COMPANY.BOT.md)
+    * [Governance: Beneficial ownership of companies](../indicators/G.COMPANY.BOT.md)
+    * [Availability: Beneficial ownership of companies](../indicators/A.COMPANY.BOT.md)
 
 ## Cluster: Land Management
 * Action Area: Land Tenure
